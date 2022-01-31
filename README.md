@@ -15,6 +15,6 @@ Dodajte še ukaz za zakasnitev s funkcijo Delay iz knjižnice HAL, in sicer 2 se
 
 KOMENTAR:
 
-Imei smo težave pri tipki, saj smo mislili, da efinirana tipka ne deluje oz. ni nastavljena na pin PC13. Zato smo poskušali z drugo tipko, ki smo jo vezal na PC13. Kmalu smo ugotovili, da smo se zmotili in še enkrat preverili kako smo nastavili pin PC13 in ugotovili, da je bil namesto na exit13 nastavljen na INPUT. Ko smo to ugotovili smo nalogo brez večjih težav rešili do konca.
+Imei smo težave pri tipki, saj smo mislili, da definirana tipka ne deluje oz. ni nastavljena na pin PC13. Zato smo poskušali z drugo tipko, ki smo jo vezal na PC13. Kmalu smo ugotovili, da smo se zmotili in še enkrat preverili kako smo nastavili pin PC13 in ugotovili, da je bil namesto na exit13 nastavljen na INPUT. Ko smo to ugotovili smo nalogo brez večjih težav rešili do konca.
 
 Luka Buzina, Žiga Kuder, Luka Nograšek
